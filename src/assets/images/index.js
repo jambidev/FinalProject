@@ -1,32 +1,32 @@
-import logo from "./orebiLogo.png";
+import logo from "./logokelompok8.png";
 import logoLight from "./logoLight.png";
-import bannerImgOne from "./banner/bannerImgOne.webp";
-import bannerImgTwo from "./banner/bannerImgTwo.webp";
-import bannerImgThree from "./banner/bannerImgThree.webp";
-import saleImgOne from "./sale/saleImgOne.webp";
-import saleImgTwo from "./sale/saleImgTwo.webp";
-import saleImgThree from "./sale/saleImgThree.webp";
+import bannerImgOne from "./banner/1.png";
+import bannerImgTwo from "./banner/2.png";
+import bannerImgThree from "./banner/3.png";
+import saleImgOne from "./sale/promo-01.png";
+import saleImgTwo from "./sale/promo-02.png";
+import saleImgThree from "./sale/promo-03.png";
 // ============== Products Start here ====================
 // New Arrivals
-import newArrOne from "./products/newArrival/newArrOne.webp";
-import newArrTwo from "./products/newArrival/newArrTwo.webp";
-import newArrThree from "./products/newArrival/newArrThree.webp";
-import newArrFour from "./products/newArrival/newArrFour.webp";
+import newArrOne from "./products/newArrival/new-product01.png";
+import newArrTwo from "./products/newArrival/new-product02.png";
+import newArrThree from "./products/newArrival/new-product03.png";
+import newArrFour from "./products/newArrival/new-product04.png";
 
 // Best Sellers
-import bestSellerOne from "./products/bestSeller/bestSellerOne.webp";
-import bestSellerTwo from "./products/bestSeller/bestSellerTwo.webp";
-import bestSellerThree from "./products/bestSeller/bestSellerThree.webp";
-import bestSellerFour from "./products/bestSeller/bestSellerFour.webp";
+import bestSellerOne from "./products/bestSeller/product-01 .png";
+import bestSellerTwo from "./products/bestSeller/product-02.png";
+import bestSellerThree from "./products/bestSeller/product-03.png";
+import bestSellerFour from "./products/bestSeller/product-04.png";
 
 // Special Offers
-import spfOne from "./products/specialOffer/spfOne.webp";
-import spfTwo from "./products/specialOffer/spfTwo.webp";
-import spfThree from "./products/specialOffer/spfThree.webp";
-import spfFour from "./products/specialOffer/spfFour.webp";
+import spfOne from "./products/specialOffer/product-baru01.png";
+import spfTwo from "./products/specialOffer/product-baru02.png";
+import spfThree from "./products/specialOffer/product-baru03.png";
+import spfFour from "./products/specialOffer/product-baru04.png";
 
 // Year Product
-import productOfTheYear from "./products/productOfTheYear.webp";
+import productOfTheYear from "./products/flashSale-banner.png";
 // ============== Products End here ======================
 import paymentCard from "./payment.png";
 import emptyCart from "../images/emptyCart.png";

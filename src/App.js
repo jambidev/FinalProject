@@ -33,6 +33,7 @@ const Layout = () => {
       <Outlet />
       <Footer />
       <FooterBottom />
+      
     </div>
   );
 };
